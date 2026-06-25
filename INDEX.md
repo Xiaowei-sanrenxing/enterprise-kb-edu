@@ -36,6 +36,7 @@
 
 - `dri-map.md` — 每条工作流的负责人
 - `glossary.md` — 公司术语、行业黑话和关键实体
+- `roles-and-agent-usage.md` — 老板、DRI、普通员工、知识库维护者和 agent 的使用边界
 
 ## 原始源 30-raw/
 
